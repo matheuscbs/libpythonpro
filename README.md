@@ -1,5 +1,11 @@
 # libpythonpro
 Módulo de integração de projetos em Python
 
-Nessa etapa estou treinando como contribuir com projetos de código
-aberto.
+Nessa etapa estou treinando como contribuir com projetos de código aberto.
+
+Suportado versão Python 3.
+
+Tópicos a serem abordados:
+1. Git
+2. Virtualenv
+3. Pip
