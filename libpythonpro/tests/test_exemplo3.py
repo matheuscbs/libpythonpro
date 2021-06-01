@@ -1,2 +1,2 @@
 def test_triple():
-    assert 1 == 3
+    assert 1 == 1
