@@ -32,4 +32,3 @@ def test_listar_usuario(conexao, sessao):
     for usuario in usuarios:
         sessao.salvar(usuario)
     assert usuarios == sessao.listar()
-
