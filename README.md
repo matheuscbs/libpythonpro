@@ -3,6 +3,9 @@ Módulo de integração de projetos em Python
 
 Nessa etapa estou treinando como contribuir com projetos de código aberto.
 
+Cobrindo conhecimentos como criação de pacotes, publicação de pacotes.
+Utilizando TDD e Baby Steps para criação de código.
+
 [![codecov](https://codecov.io/gh/matheuscbs/libpythonpro/branch/main/graph/badge.svg?token=OLLGM5N6LY)](https://codecov.io/gh/matheuscbs/libpythonpro)
 [![Build Status](https://travis-ci.com/matheuscbs/libpythonpro.svg?branch=main)](https://travis-ci.com/matheuscbs/libpythonpro)
 [![Updates](https://pyup.io/repos/github/matheuscbs/libpythonpro/shield.svg)](https://pyup.io/repos/github/matheuscbs/libpythonpro/)
