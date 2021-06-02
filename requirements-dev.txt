@@ -12,6 +12,7 @@ pluggy==0.13.1
 pyparsing==2.0.2
 pytest==6.2.4
 toml==0.10.2
+pytest-mock==3.6.1
 
 #Coverage
 coverage==5.5
